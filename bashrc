@@ -1,4 +1,4 @@
-export GITAWAREPROMPT=~/.bash/plugins/git-aware-prompt
+export GITAWAREPROMPT=~/.bash/bundle/git-aware-prompt
 source $GITAWAREPROMPT/main.sh
  
 alias ls='ls -al'
