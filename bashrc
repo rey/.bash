@@ -7,7 +7,6 @@ alias nano='vim'
 alias v='vim'
 alias qq='git status'
 alias sharehood='cd ~/Sites/sharehood'
-alias thunder='cd ~/Library/Thunderbird/Profiles'
 # When using sudo, use alias expansion (otherwise sudo ignores your aliases)
 alias sudo='sudo '
  
